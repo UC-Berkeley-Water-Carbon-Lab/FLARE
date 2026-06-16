@@ -1,7 +1,8 @@
 # Berkeley FLARE (Fire Lineage and Reconstruction Engine)
 
 ## Overview
-This repository hosts the fire event-tracking algorithm and the associated fire-event dataset as presented in: *Pu et al., A Song of Water and Fire: An Event-Centric Framework to Track Megafire Dynamics in the World’s Largest Wetland (under review, 2026).*
+This repository hosts the fire event-tracking algorithm and associated fire-event dataset developed for a manuscript currently in submission: *Pu et al., A Shift from Ignition-Limited to Climate-Amplified Fires in the World’s Largest Tropical Wetland* (working title). The title and citation details are subject to change during review, and the repository will be updated with the final citation upon publication.
+
 
 ### Snapshot of largest wildfire event (zoom in) for selected years in the Pantanal.
 <table style="border: none; border-collapse: collapse;">
